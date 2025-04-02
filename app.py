@@ -9,8 +9,8 @@ import openai
 import os
 
 # OpenAI API Key (Replace with your actual API Key)
-OPENAI_API_KEY = "enter your api_key!"
-openai.api_key = OPENAI_API_KEY
+#OPENAI_API_KEY = "enter your api_key!"
+#openai.api_key = OPENAI_API_KEY
 
 st.set_page_config(page_title="AI Expense Tracker", layout="wide")
 st.title("💰 AI-Powered Expense Tracker")
