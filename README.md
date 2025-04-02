@@ -8,10 +8,12 @@ With features like receipt uploads, currency selection, savings calculation, and
 Users can log their daily expenses with a description, amount, date, and category.
 AI automatically predicts the category based on the expense description.
 If the category is "Others," users can manually enter a custom category.
+
 2️⃣Smart Financial Insights (AI-Powered) 🤖
 Monthly spending trends: Detects if spending is higher or lower than usual.
 Expense vs. Salary Analysis: If expenses exceed 80% of the salary, the system alerts the user.
 AI Budgeting Tips: Personalized saving recommendations(using openai)
+
 3️⃣ Interactive Data Visualization 📊
 Pie Chart for category-wise spending (month-wise selection available).
 Bar Graphs to compare spending trends.
