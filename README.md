@@ -9,7 +9,7 @@ Users can log their daily expenses with a description, amount, date, and categor
 AI automatically predicts the category based on the expense description.
 If the category is "Others," users can manually enter a custom category.
 
-2️⃣****Smart Financial Insights (AI-Powered)** **🤖
+2️⃣**Smart Financial Insights (AI-Powered)** 🤖
 Monthly spending trends: Detects if spending is higher or lower than usual.
 Expense vs. Salary Analysis: If expenses exceed 80% of the salary, the system alerts the user.
 AI Budgeting Tips: Personalized saving recommendations(using openai)
